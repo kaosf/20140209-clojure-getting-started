@@ -997,3 +997,16 @@ lein ring server
 [おいしい Clojure 入門  
 ![](http://image.gihyo.co.jp/assets/images/cover/2013/thumb/TH160_9784774159911.jpg)
 ](http://www.amazon.co.jp/dp/4774159913)
+
+
+## 勉強に使えるサイト
+
+* [4clojure](https://www.4clojure.com/)
+
+
+## 今回作ったもの
+
+* このスライド: [kaosf/20140209-clojure-getting-started](https://github.com/kaosf/20140209-clojure-getting-started)
+* myapp: [kaosf/20140209-clojure-getting-started-myapp](https://github.com/kaosf/20140209-clojure-getting-started-myapp)
+* mylib: [kaosf/20140209-clojure-getting-started-mylib](https://github.com/kaosf/20140209-clojure-getting-started-mylib)
+* mycompojureapp: [kaosf/20140209-clojure-getting-started-mycompojureapp](https://github.com/kaosf/20140209-clojure-getting-started-mycompojureapp)
