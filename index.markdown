@@ -417,7 +417,7 @@ cons は construct の略
 ## reduce 例 2
 
 ```clj
-(reduce (fn [x y] (+ (* x 10) y)) '(1 2 3))
+(reduce (fn [x y] (+ (* x 10) y)) 0 '(1 2 3))
 ```
 
 これは
