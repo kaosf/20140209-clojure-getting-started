@@ -6,9 +6,9 @@ Hosted on [http://kaosf.github.io/20140209-clojure-getting-started](http://kaosf
 
 ### index.markdown
 
-[MIT](http://opensource.org/licenses/MIT)
+[CC BY-NC-SA 4.0](href="http://creativecommons.org/licenses/by-nc-sa/4.0/")
 
-Copyright 2014 ka
+Copyright (C) 2014 ka
 
 ### reveal.js part
 
