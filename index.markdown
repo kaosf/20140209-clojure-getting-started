@@ -1,7 +1,7 @@
 # Clojure 入門
 
 * author: ka
-  * Homepage: [kaosfield.net](http://kaosfield.net)
+  * Homepage: [kaosfield](http://www.kaosfield.net)
   * Twitter: [@ka_](https://twitter.com/ka_)
   * GitHub: [kaosf](https://github.com/kaosf)
 * date: 2014-02-09
